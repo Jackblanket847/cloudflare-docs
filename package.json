@@ -54,7 +54,7 @@
 		"@types/react-dom": "19.0.4",
 		"@typescript-eslint/parser": "8.32.1",
 		"algoliasearch": "5.25.0",
-		"astro": "5.8.0",
+		"astro": "5.12.8",
 		"astro-breadcrumbs": "3.3.1",
 		"astro-icon": "1.1.5",
 		"astro-live-code": "0.0.6",
@@ -128,8 +128,8 @@
 		"unified": "11.0.5",
 		"unist-util-visit": "5.0.0",
 		"vite-tsconfig-paths": "5.1.4",
-		"vitest": "2.1.6",
-		"wrangler": "4.1.0"
+		"vitest": "2.1.9",
+		"wrangler": "4.28.1"
 	},
 	"engines": {
 		"node": ">=22"
